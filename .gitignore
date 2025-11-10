@@ -1,4 +1,8 @@
 .env
+<<<<<<< HEAD
+=======
+.auth/
+>>>>>>> 4890d6da11aa789cf7ac4469788fe4d5803886e1
 # Playwright
 node_modules/
 /test-results/
